@@ -1,7 +1,7 @@
 import { createApp } from "vue";
 import "@/style/style.scss";
 import App from "@/App.vue";
-// 引入 pinia
+// 引入 pinia 1
 import { createPinia } from "pinia";
 import piniaPluginPersistedstate from "pinia-plugin-persistedstate";
 // swiper
